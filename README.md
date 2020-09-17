@@ -7,4 +7,19 @@ Seção 1 - Boas Vindas
 
 Seção 2 - Conceitos de REST
 
-* 
+* API vc Web Service
+* REST e HTTP
+* URIs baseados em Recursos
+* Coleções de Recursos
+* Métodos HTTP e CRUD
+* Resposta HTTP no REST
+* Autenticação REST
+* REST APIs
+
+Seção 3 - Configuração de Ambiente
+
+// Criação de VM pelo Hyper-V // ESCOLHA PESSOAL
+
+* Instalando Python e Jupyter Notebook
+* Instalando Atom
+* Instalando POSTMAN
