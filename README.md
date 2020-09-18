@@ -23,3 +23,17 @@ Seção 3 - Configuração de Ambiente
 * Instalando Python e Jupyter Notebook
 * Instalando Atom
 * Instalando POSTMAN
+
+Seção 4 - Python Iniciante
+
+* Executando Primeiro Script Python
+* Variáveis
+* Operadores Lógicos, Aritiméticos e de Comparação
+* Métodos
+* Listas, Tuplas e Sets
+* Condicionais (if / else)
+* Loops (for / while)
+
+Seção 4 - Python Avançado
+
+* 
